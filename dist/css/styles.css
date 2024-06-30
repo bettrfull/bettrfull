@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 13, 110, 253;
+  --bs-primary-rgb: 35, 136, 120;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -7010,13 +7010,6 @@ textarea.form-control-lg {
 
 .d-grid {
   display: grid !important;
-}
-
-.custom-icon {
-    width: 50px; /* Adjust the width as needed */
-    height: 50px; /* Adjust the height as needed */
-    border-radius: 50%; /* This makes the image rounded */
-    object-fit: cover; /* This ensures the image covers the div without distortion */
 }
 
 .d-table {
